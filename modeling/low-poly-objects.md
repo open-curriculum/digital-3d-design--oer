@@ -5,9 +5,7 @@
 
 For this project, you will model a low poly animal using open source 3D design software called Blender, available for [download here](https://www.blender.org/).
 
-
-
-Deliverables:
+**Deliverables:**
 
 1. Rendered image of low poly model: 1920x1080px 
 2. Photoshop wireframe wallpaper pattern: 1920x1080px
@@ -49,6 +47,16 @@ Deliverables:
    2. Use the Loop Cut and Extrude tools to add geometry to the mesh.
 4. Be mindful to create tidy [edge flow](https://www.youtube.com/watch?v=Lip59doQQRk) to ensure a well-crafted mesh topology.
 5. Add materials and assign to selected faces of the model.
+6. Set up lights and camera
+7. Once the composition is the way you want it, render the image.
+8. Upload the .blend file to SketchFab and configure the 3D scene in SketchFab.
+9. Render a wireframe version of the model.
+  - Duplicate the model and hide the original.
+  - Create a new material with surface set to "holdout." This will create a matte black color. Apply this to the duplicate.
+  - Add the wireframe modifier and configure the thickness of the wireframe.
+  - Render the image and save it.
+10. Create a graphic design or pattern incorporating the wireframe rendering in Photoshop and save the image.
+  
 
 ## Grading Rubric
 
@@ -91,9 +99,12 @@ Deliverables:
 
 **Due:**
 
-1. Upload model to SketchFab
-2. Upload Render
-3. Upload Photoshop
+1. Link to the SketchFab model
+  - Copy the link in the Canvas text field
+2. PNG image of the model rendering: (1080x1920px)
+  - Naming convention: `render.png`
+3. PNG image of the wireframe design (1080x1920px)
+- Naming convention: `pattern.png`
 
 
 
