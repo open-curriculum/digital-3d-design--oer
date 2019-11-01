@@ -1,8 +1,17 @@
 ![low poly 3D bird render](/assets/bird.png)
+![low poly 3D bird pattern](/assets/bird-wallpaper.png)
 
 # 3D Modeling Project
 
 For this project, you will model a low poly animal using open source 3D design software called Blender, available for [download here](https://www.blender.org/).
+
+
+
+Deliverables:
+
+1. Photoshop Render composite: 1920x1080px 
+2. Wireframe wallpaper pattern: 1920x1080px
+3. Link to realtime SketchFab hosted model
 
 ---
 
@@ -54,9 +63,7 @@ For this project, you will model a low poly animal using open source 3D design s
 
 ## Schedule
 
-## DAY 1 - November 1
-
-## Agenda
+### November 1
 
 1. Survey of 3D modeling
 2. In-class Demo
@@ -68,7 +75,7 @@ For this project, you will model a low poly animal using open source 3D design s
 2. Begin watching the Blender tutorials
 3. Start working on the project.
 
-## DAY 2 - November 8
+### November 8
 
 1. Introduction to lighting and rendering
 2. Introduction to materials
@@ -76,7 +83,15 @@ For this project, you will model a low poly animal using open source 3D design s
 
 **Todo:**
 
-## DAY 3 - November 15
+1. Continue working on the polygonal model
+2. Upload a test model to SketchFab
+3. 
+### November 15
 
-Due: Modeling
+**Due:**
+
+1. Uploaded model to SketchFab
+2. Upload Photoshop composite
+
+
 
