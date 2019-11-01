@@ -1,8 +1,8 @@
+![low poly 3D bird render](/assets/bird.png)
+
 # 3D Modeling Project
 
-For this project, you will model a low poly object using open source 3D design software called Blender, available for [download here](https://www.blender.org/).
-
-You will create a low poly outdoor environment.
+For this project, you will model a low poly animal using open source 3D design software called Blender, available for [download here](https://www.blender.org/).
 
 ## Blender Learning Resources
 
@@ -13,13 +13,12 @@ You will create a low poly outdoor environment.
 ## Steps to completion
 
 1. Watch the Blender Foundation videos 1-15 to get acquainted with the interface and modeling tools.
-2. Create a mood board to inspire your concept and design
-3. Create concept drawings - sketch your project ideas with pencil and paper or using photoshop
-4. Begin modeling your object.
+2. Choose an animal to model. Find animal reference images. Bring the reference image into Blender to model from.
+3. Begin modeling your object.
    1. Practice editing vertices, edges, and faces.
    2. Use the Loop Cut and Extrude tools to add geometry to the mesh.
    3. You can use modifiers like Subdivision Surface, Bevel, and Boolean. 
-5. Be mindful to create tidy [edge flow](https://www.youtube.com/watch?v=Lip59doQQRk) to ensure a well-crafted mesh topology.
+4. Be mindful to create tidy [edge flow](https://www.youtube.com/watch?v=Lip59doQQRk) to ensure a well-crafted mesh topology.
 
 ## Grading Rubric
 
@@ -40,15 +39,15 @@ You will create a low poly outdoor environment.
 
 1. Introduction to 3D modeling
 2. In-class Demo
-3. Introduction to 3D Modeling Project
-
-
+3. Introduction to project
 
 ## DAY 2 - November 8
 
-1. Due at beginning of class: Submit concept 
+1. Introduction to lighting and rendering
+2. Introduction to materials
+3. Compositing a 3D object in Photoshop
 
 ## DAY 3 - November 15
 
-...
+Due: Modeling
 
