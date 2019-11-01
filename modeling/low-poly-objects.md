@@ -1,5 +1,5 @@
 ![low poly 3D bird render](/assets/bird.png)
-![low poly 3D bird pattern](/assets/bird-wallpaper.png)
+![low poly 3D bird](/assets/bird-compressed-comp.jpg)
 
 # 3D Modeling Project
 
@@ -9,9 +9,9 @@ For this project, you will model a low poly animal using open source 3D design s
 
 Deliverables:
 
-1. Photoshop Render composite: 1920x1080px 
-2. Wireframe wallpaper pattern: 1920x1080px
-3. Link to realtime SketchFab hosted model
+1. Blender Render: 1920x1080px 
+2. Photoshop wireframe wallpaper pattern: 1920x1080px
+3. Link to realtime [SketchFab](https://sketchfab.com/3d-models/bird-982fd7195bf34bc3884e06c26aba167d) hosted model
 
 ---
 
@@ -80,18 +80,20 @@ Deliverables:
 1. Introduction to lighting and rendering
 2. Introduction to materials
 3. Compositing a 3D object in Photoshop
+4. SketchFab demo
 
 **Todo:**
 
 1. Continue working on the polygonal model
 2. Upload a test model to SketchFab
-3. 
+
 ### November 15
 
 **Due:**
 
-1. Uploaded model to SketchFab
-2. Upload Photoshop composite
+1. Upload model to SketchFab
+2. Upload Render
+3. Upload Photoshop
 
 
 
