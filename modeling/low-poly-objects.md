@@ -9,7 +9,7 @@ For this project, you will model a low poly animal using open source 3D design s
 
 Deliverables:
 
-1. Blender Render: 1920x1080px 
+1. Rendered image of low poly model: 1920x1080px 
 2. Photoshop wireframe wallpaper pattern: 1920x1080px
 3. Link to realtime [SketchFab](https://sketchfab.com/3d-models/bird-982fd7195bf34bc3884e06c26aba167d) hosted model
 
