@@ -4,11 +4,32 @@
 
 For this project, you will model a low poly animal using open source 3D design software called Blender, available for [download here](https://www.blender.org/).
 
-## Blender Learning Resources
+---
+
+## Learning Resources
 
 * [Blender Foundation - Blender 2.8 Fundamentals](https://www.youtube.com/watch?v=MF1qEhBSfq4&list=PLa1F2ddGya_-UvuAqHAksYnB0qL9yWDO6)
+
+### Modeling
+
 * [Modeling low poly animal animals - Part 1](https://www.youtube.com/watch?v=6mT4XFJYq-4)
 * [Modeling low poly animal animals - Part 2](https://www.youtube.com/watch?v=456-XCXG_D0)
+
+### Materials
+
+* [Understanding Materials - Blender 2.8 Tutorial for Beginners](https://www.youtube.com/watch?v=nBdGm_d_8XE)
+
+### Lights
+
+* [Light Types - Blender 2.80 Fundamentals](https://www.youtube.com/watch?v=FdbnzfjoOJU&list=PLa1F2ddGya_-UvuAqHAksYnB0qL9yWDO6&index=21)
+* [Eevee Lighting - Blender 2.80 Fundamentals](https://www.youtube.com/watch?v=MFNurQ1AF2I)
+
+### Camera and Rendering
+
+* [Lock Camera to View](https://www.youtube.com/watch?v=g5UZRF0RXbs)
+* [Transparent backgrounds](https://www.youtube.com/watch?v=I-M_TIA9H-U)
+
+---
 
 ## Steps to completion
 
@@ -17,8 +38,8 @@ For this project, you will model a low poly animal using open source 3D design s
 3. Begin modeling your object.
    1. Practice editing vertices, edges, and faces.
    2. Use the Loop Cut and Extrude tools to add geometry to the mesh.
-   3. You can use modifiers like Subdivision Surface, Bevel, and Boolean. 
 4. Be mindful to create tidy [edge flow](https://www.youtube.com/watch?v=Lip59doQQRk) to ensure a well-crafted mesh topology.
+5. Add materials and assign to selected faces of the model.
 
 ## Grading Rubric
 
@@ -37,15 +58,23 @@ For this project, you will model a low poly animal using open source 3D design s
 
 ## Agenda
 
-1. Introduction to 3D modeling
+1. Survey of 3D modeling
 2. In-class Demo
 3. Introduction to project
+
+**Todo:**
+
+1. Create a [sketchfab.com](https://sketchfab.com) account
+2. Begin watching the Blender tutorials
+3. Start working on the project.
 
 ## DAY 2 - November 8
 
 1. Introduction to lighting and rendering
 2. Introduction to materials
 3. Compositing a 3D object in Photoshop
+
+**Todo:**
 
 ## DAY 3 - November 15
 
