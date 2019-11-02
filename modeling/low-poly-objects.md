@@ -100,13 +100,19 @@ For this project, you will model a low poly animal using open source 3D design s
 
 **Due:**
 
-1. Link to the SketchFab model
-   * Upload the link in to Canvas
-   * Paste the link to the discussion page
-2. PNG image of the model rendering: \(1080x1920px\)
+1. SketchFab.com model
+   * Paste the SketchFab link to the "3D Modeling" Canvas discussion board
+   * Upload or paste link to Canvas 3D Modeling assignment
+2. 3D Render: PNG image of the model rendering: \(1080x1920px\)
    * Naming convention: `render.png`
-3. PNG image of the wireframe design \(1080x1920px\)
+   * Upload image Canvas 3D Modeling assignment
+   * Upload image to the "3D Modeling" Canvas discussion board
+3. Wireframe composition: PNG image of the wireframe design \(1080x1920px\)
    * Naming convention: `pattern.png`
+   * Upload image Canvas 3D Modeling assignment
+   * Upload image to the "3D Modeling" Canvas discussion board
+
+
 
 
 
