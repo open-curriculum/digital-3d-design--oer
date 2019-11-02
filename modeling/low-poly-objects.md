@@ -1,6 +1,10 @@
 ![low poly 3D bird render](/assets/bird.png)  
 ![low poly 3D bird](/assets/bird-compressed-comp.jpg)
 
+Low poly example images make use of [this 3D model](https://www.turbosquid.com/3d-models/3d-base-mesh-chick-1216188) with [permitted use](https://blog.turbosquid.com/royalty-free-license/#Creations-Of-Imagery).
+
+***
+
 # 3D Modeling Project
 
 For this project, you will model a low poly animal using open source 3D design software called Blender, available for [download here](https://www.blender.org/).
@@ -41,7 +45,7 @@ For this project, you will model a low poly animal using open source 3D design s
 ## Steps to completion
 
 1. Watch the Blender Foundation videos 1-15 to get acquainted with the interface and modeling tools.
-2. Choose an animal to model. Find animal reference images. Bring the reference image into Blender to model from.
+2. Choose an animal and create a low poly style model. Find animal reference images. Bring the reference image into Blender to model from.
 3. Begin modeling your object.
    1. Practice editing vertices, edges, and faces.
    2. Use the Loop Cut and Extrude tools to add geometry to the mesh.
@@ -55,7 +59,7 @@ For this project, you will model a low poly animal using open source 3D design s
    * Create a new material with surface set to "holdout." This will create a matte black color. Apply this to the duplicate.
    * Add the wireframe modifier and configure the thickness of the wireframe.
    * Render the image and save it.
-10. Create a graphic design or pattern incorporating the wireframe rendering in Photoshop and save the image.
+10. Create an interesting composition or pattern incorporating the wireframe rendering in Photoshop and save the image as a PNG or JPG.
 
 ## Grading Rubric
 
