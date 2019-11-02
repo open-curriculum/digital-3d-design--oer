@@ -1,4 +1,4 @@
-![low poly 3D bird render](/assets/bird.png)
+![low poly 3D bird render](/assets/bird.png)  
 ![low poly 3D bird](/assets/bird-compressed-comp.jpg)
 
 # 3D Modeling Project
@@ -51,21 +51,22 @@ For this project, you will model a low poly animal using open source 3D design s
 7. Once the composition is the way you want it, render the image.
 8. Upload the .blend file to SketchFab and configure the 3D scene in SketchFab.
 9. Render a wireframe version of the model.
-  - Duplicate the model and hide the original.
-  - Create a new material with surface set to "holdout." This will create a matte black color. Apply this to the duplicate.
-  - Add the wireframe modifier and configure the thickness of the wireframe.
-  - Render the image and save it.
+   * Duplicate the model and hide the original.
+   * Create a new material with surface set to "holdout." This will create a matte black color. Apply this to the duplicate.
+   * Add the wireframe modifier and configure the thickness of the wireframe.
+   * Render the image and save it.
 10. Create a graphic design or pattern incorporating the wireframe rendering in Photoshop and save the image.
-  
 
 ## Grading Rubric
 
 * Steps to completion were followed: 40%
 * Craft: 40%
-  * Model has good edge flow
-  * Model is made from 4-sided polygons
+  * Model has a low polygon count, in the "low poly" modeling style
+  * Model has quality [edge flow](https://www.youtube.com/watch?v=Lip59doQQRk)
+  * Model is made from 4-sided polygons, and has evenly spaced polygon geometry.
   * Model is appropriate scale in Blender scene
-* On-time submission: 20%  
+  * Renders and Photoshop compositions are well considered.
+* On-time submission: 20%
 
 ---
 
@@ -100,11 +101,12 @@ For this project, you will model a low poly animal using open source 3D design s
 **Due:**
 
 1. Link to the SketchFab model
-  - Copy the link in the Canvas text field
-2. PNG image of the model rendering: (1080x1920px)
-  - Naming convention: `render.png`
-3. PNG image of the wireframe design (1080x1920px)
-- Naming convention: `pattern.png`
+   * Upload the link in to Canvas
+   * Paste the link to the discussion page
+2. PNG image of the model rendering: \(1080x1920px\)
+   * Naming convention: `render.png`
+3. PNG image of the wireframe design \(1080x1920px\)
+   * Naming convention: `pattern.png`
 
 
 
