@@ -3,7 +3,7 @@
 
 Low poly example images make use of [this 3D model](https://www.turbosquid.com/3d-models/3d-base-mesh-chick-1216188) with [permitted use](https://blog.turbosquid.com/royalty-free-license/#Creations-Of-Imagery).
 
-***
+---
 
 # 3D Modeling Project
 
@@ -52,14 +52,14 @@ For this project, you will model a low poly animal using open source 3D design s
 4. Be mindful to create tidy [edge flow](https://www.youtube.com/watch?v=Lip59doQQRk) to ensure a well-crafted mesh topology.
 5. Add materials and assign to selected faces of the model.
 6. Set up lights and camera
-7. Once the composition is the way you want it, render the image.
-8. Upload the .blend file to SketchFab and configure the 3D scene in SketchFab.
-9. Render a wireframe version of the model.
+7. **Deliverable 1:** Once the composition is the way you want it, render the image as a PNG or JPG.
+8. **Deliverable 2:** Upload the .blend file to SketchFab.com and configure the 3D scene in SketchFab.
+9. **Deliverable 3:** Render a wireframe version of the model.
    * Duplicate the model and hide the original.
    * Create a new material with surface set to "holdout." This will create a matte black color. Apply this to the duplicate.
    * Add the wireframe modifier and configure the thickness of the wireframe.
-   * Render the image and save it.
-10. Create an interesting composition or pattern incorporating the wireframe rendering in Photoshop and save the image as a PNG or JPG.
+   * Render the image and save it as a PNG or JPG.
+   * Create an interesting composition or pattern incorporating the wireframe rendering in Photoshop and save the image as a PNG or JPG.
 
 ## Grading Rubric
 
@@ -115,8 +115,6 @@ For this project, you will model a low poly animal using open source 3D design s
    * Naming convention: `pattern.png`
    * Upload image Canvas 3D Modeling assignment
    * Upload image to the "3D Modeling" Canvas discussion board
-
-
 
 
 
